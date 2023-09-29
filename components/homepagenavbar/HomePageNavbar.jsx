@@ -46,6 +46,7 @@ const homepagenavbar = () => {
         </div>
 
 
+{/* admin örnek sayfadır butonun çalıştığını simgeler admin sayfası isteğe göre değiştirilecektir */}
 {/* ------------------------------------------------------------------- */}
         {/* kararlar_yazi */}
         <button className={styles.kararlar_yazi}>
