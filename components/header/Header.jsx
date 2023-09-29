@@ -14,6 +14,7 @@ const Header = () => {
         router.asPath === "/" ? "bg-transparent" : "bg-secondary !fixed"
       }`}
     >
+      
       <div className="container mx-auto text-white flex justify-between items-center h-full">
         <Logo />
         <nav
